@@ -3,9 +3,9 @@
 
  
  
-String apiKey = "1HGL2R7LOJZ9GB9P"; // Enter the Write API key from ThingSpeak
-const char *ssid = "OnePlus Nord CE4";     // wifi ssid and wpa2 key
-const char *pass = "15170102";
+String apiKey = "xxxx xxxx xxxx xxxx "; // Enter the Write API key from ThingSpeak
+const char *ssid = "your_mobile_model_name";     // wifi ssid and wpa2 key
+const char *pass = "your_wifi_password";
  
 //const int sensor_pin = A0;  // Connect Soil moisture analog sensor pin to A0 of NodeMCU 
  
