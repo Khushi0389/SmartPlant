@@ -1,6 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <Wire.h>
 
+
  
  
 String apiKey = "xxxx xxxx xxxx xxxx "; // Enter the Write API key from ThingSpeak
@@ -122,3 +123,4 @@ void printWifiStatus() {
 
   Serial.println(" dBm");
 }
+// Triggering YOLO GitHub badge - PR without review
