@@ -71,3 +71,6 @@ The **Soil Moisture Monitoring System** is a cost-effective and efficient IoT so
 5. Access the ThingSpeak dashboard to monitor soil moisture data.
 
 ---
+
+✨ This project is maintained by Khushi Gupta
+GitHub:  https://github.com/Khushi0389
