@@ -19,7 +19,7 @@ The **Soil Moisture Monitoring System** is an IoT-based project designed to moni
 - Connecting wires
 - USB cable for programming and power
 - Computer with Arduino IDE
-- ThingSpeak platform for data visualization
+- ThingSpeak platform for data visualization.
 
 ---
 
@@ -51,7 +51,7 @@ The **Soil Moisture Monitoring System** is an IoT-based project designed to moni
 
 ---
 
-## Results
+## Results :)
 - Real-time monitoring of soil moisture levels.
 - Optimization of irrigation schedules to prevent overwatering or underwatering.
 - A web interface for user-friendly visualization accessible from any internet-enabled device.
